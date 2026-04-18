@@ -22,10 +22,12 @@ Bienvenue sur mon dépôt de progression en développement Python. Ce projet reg
 ### 02. Combat Log Analyzer (File I/O)
 **Concept :** Analyseur de fichiers logs simulant une sortie serveur de jeu.
 - **Acquis :** Lecture de fichiers, parsing de texte, utilisation des `Sets`.
-- **Statut :** ⏳ En cours
+- **Statut :** ✅ Terminé
 
-### 03. ???
-**Concept :** ???
+### 03. Ninja Shop System
+**Concept :** Write a Python program that manages a shop's inventory and processes purchases.
+-** Acquis :** Dictionnaires imbriqués, Logique conditionnelle, Exceptions personnalisées et Calculs.
+- **Statut :** ✅ Terminé
 
 ---
 
