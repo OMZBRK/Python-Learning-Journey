@@ -32,7 +32,12 @@ Bienvenue sur mon dépôt de progression en développement Python. Ce projet reg
 **Concept :** Moteur de combat au tour par tour simulant un duel avec une IA décisionnelle simple.
 - **Acquis :** Boucles de jeu (`Game Loop`), logique conditionnelle avancée, persistance des données durant l'exécution.
 - **Statut :** ✅ Terminé
-
+  
+### 05. Ninja API Connector (Web & Networking)
+**Concept :** Synchronisation de données avec un serveur distant via une API REST.
+- **Acquis :** Bibliothèque `requests`, format JSON, gestion des erreurs réseau, persistance des données externes.
+- **Statut :** ✅ Terminé
+  
 ---
 
 ## 🛠️ Outils & Environnement
