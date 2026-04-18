@@ -26,7 +26,7 @@ Bienvenue sur mon dépôt de progression en développement Python. Ce projet reg
 
 ### 03. Ninja Shop System
 **Concept :** Write a Python program that manages a shop's inventory and processes purchases.
--** Acquis :** Dictionnaires imbriqués, Logique conditionnelle, Exceptions personnalisées et Calculs.
+- **Acquis :** Dictionnaires imbriqués, Logique conditionnelle, Exceptions personnalisées et Calculs.
 - **Statut :** ✅ Terminé
 
 ---
