@@ -4,31 +4,41 @@ Bienvenue sur mon dépôt de progression en développement Python. Ce projet reg
 
 ## 📌 Objectifs pédagogiques
 
-- Maîtriser la gestion des erreurs et la robustesse du code.
-- Manipuler des structures de données complexes.
-- Apprendre l'architecture logicielle (séparation logique/interface).
-- Préparer les bases techniques pour des projets de Game Development (Minecraft plugins, Bots, Backend).
+- **Robustesse** : Maîtriser la gestion des erreurs et les exceptions personnalisées.
+- **Data Handling** : Manipuler des structures de données complexes (dictionnaires imbriqués, sets).
+- **Architecture** : Apprendre la séparation entre la logique métier et l'interface utilisateur.
+- **Game Dev Foundations** : Préparer les bases techniques pour des projets complexes (Plugins Minecraft, Backend, Moteurs de jeux).
 
 ---
 
 ## 📂 Liste des Projets
 
 ### 01. Chakra Manager (Logic & Exceptions)
-
-**Concept :** Gestionnaire de statistiques de personnages avec système d'exceptions personnalisées.
-- **Acquis :** Dictionnaires imbriqués, `try/except/finally`, levée d'erreurs (`raise`).
+**Concept :** Gestionnaire de statistiques de personnages avec validation d'entrées.
+- **Acquis :** Dictionnaires, blocs `try/except/finally`, levée d'erreurs (`raise`).
 - **Statut :** ✅ Terminé
 
 ### 02. Combat Log Analyzer (File I/O)
-**Concept :** Analyseur de fichiers logs simulant une sortie serveur de jeu.
-- **Acquis :** Lecture de fichiers, parsing de texte, utilisation des `Sets`.
+**Concept :** Analyseur de fichiers logs simulant une sortie de serveur de jeu pour extraire des statistiques.
+- **Acquis :** Lecture de fichiers `.log`, parsing de chaînes de caractères, filtrage avec les `Sets`.
 - **Statut :** ✅ Terminé
 
-### 03. Ninja Shop System
-**Concept :** Write a Python program that manages a shop's inventory and processes purchases.
-- **Acquis :** Dictionnaires imbriqués, Logique conditionnelle, Exceptions personnalisées et Calculs.
+### 03. Ninja Shop System (Business Logic)
+**Concept :** Système d'inventaire et de boutique gérant les transactions et les ruptures de stock.
+- **Acquis :** Gestion de l'état (State), logique de transaction, exceptions personnalisées (`InsufficientFundsError`).
+- **Statut :** ✅ Terminé
+
+### 04. RPG Battle Engine (The Final Boss)
+**Concept :** Moteur de combat au tour par tour simulant un duel avec une IA décisionnelle simple.
+- **Acquis :** Boucles de jeu (`Game Loop`), logique conditionnelle avancée, persistance des données durant l'exécution.
 - **Statut :** ✅ Terminé
 
 ---
 
-Ce parcours d'apprentissage, la structure des exercices et la documentation de ce dépôt ont été rédigés avec l'assistance d'une IA faisant office de mentor technique.
+## 🛠️ Outils & Environnement
+- **Langage** : Python 3.x
+- **IDE** : Visual Studio Code
+- **Méthodologie** : Apprentissage par projet avec mentorat IA.
+
+---
+*Ce parcours d'apprentissage et la documentation de ce dépôt ont été structurés avec l'assistance d'une IA faisant office de mentor technique.*
